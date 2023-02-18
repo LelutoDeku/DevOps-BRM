@@ -1,0 +1,74 @@
+2023-01-27 09:08:07,940 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-27 09:10:56,568 [Worker-5: Creating project "devops.b_r_m.lab_3"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: b_r_m.lab_3:devops.b_r_m.lab_3:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3\pom.xml.
+2023-01-27 09:10:56,929 [Worker-5: Creating project "devops.b_r_m.lab_3"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /devops.b_r_m.lab_3/src/main/java
+2023-01-27 09:10:56,930 [Worker-5: Creating project "devops.b_r_m.lab_3"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /devops.b_r_m.lab_3/src/main/resources
+2023-01-27 09:10:56,931 [Worker-5: Creating project "devops.b_r_m.lab_3"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /devops.b_r_m.lab_3/src/test/java
+2023-01-27 09:10:56,931 [Worker-5: Creating project "devops.b_r_m.lab_3"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /devops.b_r_m.lab_3/src/test/resources
+2023-01-27 09:10:57,560 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:10:57,563 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:10:57,565 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:10:57,565 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:13:56,366 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:13:56,369 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:13:56,370 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:13:56,370 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:13:57,382 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:13:57,383 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:13:57,384 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:13:57,385 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:15:09,335 [Worker-24: Launching Class_First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:15:09,336 [Worker-24: Launching Class_First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:15:09,338 [Worker-24: Launching Class_First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:15:09,339 [Worker-24: Launching Class_First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:15:25,320 [Worker-7: Launching Class_First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:15:25,321 [Worker-7: Launching Class_First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:15:25,323 [Worker-7: Launching Class_First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:15:25,323 [Worker-7: Launching Class_First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:17:11,158 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:18:21,066 [Worker-7: Launching devops.b_r_m.lab_3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:18:21,066 [Worker-7: Launching devops.b_r_m.lab_3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 09:21:01,993 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:21:14,165 [Worker-29: Launching devops.b_r_m.lab_3 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:21:14,165 [Worker-29: Launching devops.b_r_m.lab_3 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2023-01-27 09:24:45,719 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: b_r_m.lab_3:devops.b_r_m.lab_3:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3\pom.xml.
+2023-01-27 09:24:45,815 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:24:45,817 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:24:45,819 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:24:45,819 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:24:53,933 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:24:58,235 [Worker-35: Launching devops.b_r_m.lab_3 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:24:58,235 [Worker-35: Launching devops.b_r_m.lab_3 (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2023-01-27 09:26:15,002 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:26:28,432 [Worker-28: Launching devops.b_r_m.lab_3 (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:26:28,432 [Worker-28: Launching devops.b_r_m.lab_3 (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-01-27 09:32:00,071 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: b_r_m.lab_3:devops.b_r_m.lab_3:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3\pom.xml.
+2023-01-27 09:32:00,427 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:32:00,427 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:32:00,429 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:32:00,429 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:34:44,857 [Worker-41: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 3_devops.b_r_m.lab_3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:34:44,857 [Worker-41: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 3_devops.b_r_m.lab_3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 09:34:45,947 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:34:45,948 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:34:45,949 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:34:45,950 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:35:17,959 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:35:21,443 [Worker-43: Launching devops.b_r_m.lab_3 (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:35:21,443 [Worker-43: Launching devops.b_r_m.lab_3 (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 09:35:45,100 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: b_r_m.lab_3:devops.b_r_m.lab_3:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3\pom.xml.
+2023-01-27 09:35:45,184 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:35:45,185 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:35:45,186 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:35:45,187 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:35:53,146 [Worker-43: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 3_devops.b_r_m.lab_3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:35:53,146 [Worker-43: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 3_devops.b_r_m.lab_3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 09:35:54,360 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:35:54,361 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:35:54,361 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 09:35:54,362 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 09:37:42,130 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:40:18,432 [Worker-43: Launching devops.b_r_m.lab_3 (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:40:18,432 [Worker-43: Launching devops.b_r_m.lab_3 (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-01-27 09:47:31,976 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-01-27 09:47:39,721 [Worker-54: Launching devops.b_r_m.lab_3 (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 3\devops.b_r_m.lab_3
+2023-01-27 09:47:39,721 [Worker-54: Launching devops.b_r_m.lab_3 (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test-compile
