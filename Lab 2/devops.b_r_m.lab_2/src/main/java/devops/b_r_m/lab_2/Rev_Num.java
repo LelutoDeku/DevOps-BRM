@@ -1,0 +1,21 @@
+package devops.b_r_m.lab_2;
+
+public class Rev_Num {
+	public int rev_num(int a)	{
+		int r,num=0;
+		while(a>0)	{
+			r=a%10;
+			a=a/10;
+			num=num*10+r;
+			
+		}
+		return num;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Rev_Num rn=new Rev_Num();
+		System.out.println(rn.rev_num(123));
+
+	}
+
+}

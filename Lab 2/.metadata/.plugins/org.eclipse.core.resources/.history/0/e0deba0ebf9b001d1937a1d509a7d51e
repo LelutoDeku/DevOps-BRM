@@ -1,0 +1,10 @@
+package devops.b_r_m.lab_2;
+
+public class Rev_Num {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
