@@ -1,0 +1,73 @@
+2023-01-27 10:24:22,851 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-27 10:25:59,162 [Worker-14: Creating project "devops.b_r_m.lab_1"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: devops.b_r_m:devops.b_r_m.lab_1:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1\pom.xml.
+2023-01-27 10:25:59,496 [Worker-14: Creating project "devops.b_r_m.lab_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /devops.b_r_m.lab_1/src/main/java
+2023-01-27 10:25:59,497 [Worker-14: Creating project "devops.b_r_m.lab_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /devops.b_r_m.lab_1/src/main/resources
+2023-01-27 10:25:59,497 [Worker-14: Creating project "devops.b_r_m.lab_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /devops.b_r_m.lab_1/src/test/java
+2023-01-27 10:25:59,498 [Worker-14: Creating project "devops.b_r_m.lab_1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /devops.b_r_m.lab_1/src/test/resources
+2023-01-27 10:26:00,142 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:26:00,145 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:26:00,156 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:26:00,157 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:31:52,247 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:31:52,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:31:52,254 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:31:52,254 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:31:53,266 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:31:53,266 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:31:53,267 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:31:53,267 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:32:06,780 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:32:06,780 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:32:06,781 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:32:06,781 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:33:29,839 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: upes.devops:upes.devops.h:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1\pom.xml.
+2023-01-27 10:33:29,949 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:33:29,950 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:33:29,952 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:33:29,952 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:34:13,955 [Worker-26: Launching Executing install in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1
+2023-01-27 10:34:13,955 [Worker-26: Launching Executing install in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-01-27 10:34:16,251 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:34:16,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:34:16,253 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:34:16,254 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:37:25,630 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: devops.b_r_m:devops.b_r_m.lab_1:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1\pom.xml.
+2023-01-27 10:37:25,707 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:37:25,708 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:37:25,709 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:37:25,710 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:37:31,895 [Worker-22: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1
+2023-01-27 10:37:31,896 [Worker-22: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 10:37:33,142 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:37:33,144 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:37:33,147 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:37:33,148 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:37:55,150 [Worker-25: Launching Executing install in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1
+2023-01-27 10:37:55,150 [Worker-25: Launching Executing install in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-01-27 10:37:57,304 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:37:57,305 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:37:57,306 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:37:57,306 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:09,215 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: devops.b_r_m:devops.b_r_m.lab_1:0.0.1-SNAPSHOT @ D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1\pom.xml.
+2023-01-27 10:40:09,288 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:09,289 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:09,290 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:09,291 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:16,433 [Worker-15: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1
+2023-01-27 10:40:16,433 [Worker-15: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 10:40:18,795 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:18,795 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:18,796 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:18,796 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:43,694 [Worker-29: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1
+2023-01-27 10:40:43,694 [Worker-29: Launching Executing clean in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-01-27 10:40:44,958 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:44,958 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:44,959 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:44,959 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:52,930 [Worker-15: Launching Executing install in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\devops.b_r_m.lab_1
+2023-01-27 10:40:52,930 [Worker-15: Launching Executing install in D__College Data_4th Semester_Build and Release Mangement_Lab_Lab 1_devops.b_r_m.lab_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-01-27 10:40:55,196 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:55,196 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-27 10:40:55,197 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-27 10:40:55,197 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

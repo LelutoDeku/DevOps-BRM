@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\College Data\4th Semester\Build and Release Mangement\Lab\Lab 1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3027679287.index
+1528723415.index
